@@ -2,7 +2,7 @@ Módosult szabályok
 
 Előmenetel
 
-Minden szint meglépéséhez a karaktereknek 6 + [következő szint] mennyiségű XP-t kell szerezniük. Tehát egy 1. szintű karakter a 2. szintet 8 XP-nél éri el, a 2. szintről a 3. szintet 9-ért, stb. Amikor valaki szintet lép, megnöveli a szintjét, majd levonja összegyűjtött XP-jéből a szintlépés költségét, és a maradékkal folytatja.
+Minden szint meglépéséhez a karaktereknek 6 + [következő szint] mennyiségű XP-t kell szerezniük. Tehát egy 1. szintű karakter a 2. szintet 8 XP-nél éri el, a 2. szintről a 3. szintre lépéséhez pedig további 9-et kell gyűjtenie (így összesen 17-et), stb. Amikor valaki szintet lép, megnöveli a szintjét, majd levonja összegyűjtött XP-jéből a szintlépés költségét, és a maradékkal folytatja.
 
 Szintet lépni kizárólag downtime alatt lehet. Ez azt jelenti, hogy a karakternek a neki megfelelő, nyugodt körülmények között kell eltöltenie 5 × [következő szint] napot a szintlépéshez.
 
@@ -30,18 +30,20 @@ Ezen felül új szabály, hogy maga a short rest is legalább 2 órányi pihené
 
 Harcrendszer
 
-A legfontosabb változás maga az Opportunity Attack, hiszen majdnem minden egyéb ezzel kapcsolatos. Mostantól az Opportunity Attack nem reaction, hanem egy ingyenes támadás, ami akkor hajtható végre, ha azt kiprovokálják.
+A legfontosabb változás maga az Opportunity Attack, hiszen majdnem minden egyéb ezzel kapcsolatos. Mostantól az Opportunity Attack nem reaction, hanem egy ingyenes támadás, ami akkor hajtható végre, ha azt kiprovokálják. Alap esetben minden karakter csak 1 Opportunity Attackot hajthat végre a körében, kivéve, ha ezt valamilyen egyéb, szűkebb szabály felülbírálja.
 
-Új mozgásforma az ún. "1 lépéses mozgás." Ez azt jelenti, hogy az a karakter, aki a harci körében még semmilyen más mozgás akciót nem használt el, 5 lábbal (1 mezővel) arréb léphet, de csak a köre végén, azaz utána már egyebet nem cselekedhet a saját körében! Nagyon fontos, hogy ez a fajta mozgás nem provokál ki Opportunity Attack-ot!
+Új mozgásforma az ún. "1 lépéses mozgás." Ez azt jelenti, hogy az a karakter, aki a harci körében még semmilyen más mozgás akciót nem használt el, 5 lábbal (1 mezővel) arréb léphet. Ha azonban ezt megtette, utána már semmilyen egyéb mozgást nem végezhet! Nagyon fontos, hogy ez a fajta mozgás nem provokál ki Opportunity Attack-ot!
 
-Megváltozik a Disengage használata is. Ezt az Actiont használva a karakter megkezdheti a mozgási akcióját, és első lépésével kiléphet 1(!), azaz EGY fenyegetett mezőről anélkül, hogy Opportunity Attackot provokálna ki.
+Megváltozik a Disengage használata is. Ezt az Actiont használva a karakter megkezdheti a mozgását, és első lépésével kiléphet 1(!), azaz EGY fenyegetett mezőről anélkül, hogy Opportunity Attackot provokálna ki. Ezután azonban ugyanúgy, mint normál esetben, ha ki akar lépni egy fenyegetett mezőről, az ki fogja provokálni az Opportunity Attack-okat.
 
-Amikor egy karakter fenyegetett mezőn áll, minden olyan cselekvés Opportunity Attack-ot provokál ki, ami akadályozza, vagy nem közvetlenül a közelharc folytatását célozza, vagy ami nem írja kifejezetten, hogy nem provokál ki Opportunity Attack-ot. Igen, a mozgás is ilyen, kivéve, ha a mozgó fél disengage-el, vagy ha az 1 lépéses mozgást használja. Néhány példa a teljesség igénye nélkül arra, mi provokálhat ki Opportunity Attack-ot:
+A játékban a továbbiakban a DMG-ben említett átlós mozgásra vonatkozó opcionális szabály is használatra kerül. Azaz, amikor egy karakter átlóban akar mozogni a harci köre alatt, akkor minden 2. átlós mozgás 10 lábnyi mozgásba kerül 5 helyett.
+
+Amikor egy karakter fenyegetett mezőn áll, minden olyan cselekvés Opportunity Attack-ot provokál ki, ami akadályozza a közelharcot, vagy nem közvetlenül a közelharc folytatását célozza, vagy ami nem írja kifejezetten, hogy nem provokál ki Opportunity Attack-ot. Igen, a mozgás is ilyen, kivéve, ha a mozgó fél Disengage-el, vagy ha az 1 lépéses mozgást használja. Néhány példa a teljesség igénye nélkül arra, mi provokálhat ki Opportunity Attack-ot:
 * Bájital felhajtása.
 * Lőfegyverrel támadás.
 * Elesett karakter stabilizálása.
-* Kilépés egy ellenfél által fenyegetett mezőről egy nem fenyegetett mezőre disengage vagy 1 lépéses mozgás használata nélkül.
-* Kilépés egy ellenfél által fenyegetett mezőről egy másik, ugyanazon ellenfél által fenyegetett mezőre disengage vagy 1 lépéses mozgás használata nélkül.
+* Kilépés egy ellenfél által fenyegetett mezőről egy nem fenyegetett mezőre Disengage vagy 1 lépéses mozgás használata nélkül.
+* Kilépés egy ellenfél által fenyegetett mezőről egy másik, ugyanazon ellenfél által fenyegetett mezőre Disengage vagy 1 lépéses mozgás használata nélkül.
 * Felkelés fekvő pozícióból.
 
 Hogy teljes mértékben egyértelmű legyen, varázslat csak akkor provokál ki Opportunity Attack-ot, ha

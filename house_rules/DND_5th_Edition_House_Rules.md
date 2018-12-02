@@ -2,13 +2,13 @@
 
 ### Előmenetel
 
-Minden szint meglépéséhez a karaktereknek 6 + [következő szint] mennyiségű XP-t kell szerezniük. Tehát egy 1. szintű karakter a 2. szintet 8 TP-nél éri el, a 2. szintről a 3. szintre lépéséhez pedig további 9-et kell gyűjtenie (így összesen 17-et), stb. Amikor valaki szintet lép, megnöveli a szintjét, majd levonja összegyűjtött TP-jéből a szintlépés költségét, és a maradékkal folytatja.
+Minden szint meglépéséhez a karaktereknek `6 + [következő szint]` mennyiségű XP-t kell szerezniük. Tehát egy 1. szintű karakter a 2. szintet 8 TP-nél éri el, a 2. szintről a 3. szintre lépéséhez pedig további 9-et kell gyűjtenie (így összesen 17-et), stb. Amikor valaki szintet lép, megnöveli a szintjét, majd levonja összegyűjtött TP-jéből a szintlépés költségét, és a maradékkal folytatja.
 
-Szintet lépni kizárólag downtime alatt lehet. Ez azt jelenti, hogy a karakternek a neki megfelelő, nyugodt körülmények között kell eltöltenie 5 × [következő szint] napot a szintlépéshez.
+Szintet lépni kizárólag downtime alatt lehet. Ez azt jelenti, hogy a karakternek a neki megfelelő, nyugodt körülmények között kell eltöltenie `5 × [következő szint]` napot a szintlépéshez.
 
 #### Tapaszpontok
 
-Tapasztalati pontokat úgy lehet szerezni, hogy az ülés végén a KM felteszi a következő kérdéseket:
+A szokásos, vagy akár a szabálykönyvekben taglalt XP alternatívák helyett egy teljesen más tapasztalati pont rendszer lép életbe. A karakterek úgy szerezhetnek tapasztalati pontokat, hogy a DM felteszi a következő kérdéseket az ülés végén:
 
 * Győztünk-e le említésre méltó ellenfelet?
 * Szereztünk-e említésre méltó új szövetségest vagy ellenséget?
@@ -30,6 +30,7 @@ Ezen felül új szabály, hogy maga a short rest is legalább 2 órányi pihené
 <div style='border: 1px black solid; padding: 6px;'>
 <strong><em>Healing Surge.</strong></em> A kalandorokat szívósabb fából faragták, mint a közembereket, így sokszor akkor is képesek tovább harcolni, mikor úgy tűnik, minden elveszett. Long restenként egyszer a karakter egy Bonus Action ráfordításával felhasználhatja Hit Dice-ainak legfeljebb felét, hogy gyógyuljon. Ha egy karakter HP-ja 0-ra csökkenne, és ezt máshogy saját maga megakadályozni nem tudja, akkor a Healing Surge automatikusan, Bonus Action ráfordítása nélkül aktiválható, ha a karakter még nem élt vele a legutóbbi long rest óta.
 </div>
+
 ### Harcrendszer
 
 A legfontosabb változás maga az Opportunity Attack, hiszen majdnem minden egyéb ezzel kapcsolatos. Mostantól az Opportunity Attack nem reaction, hanem egy ingyenes támadás, ami akkor hajtható végre, ha azt kiprovokálják. Alap esetben minden karakter csak 1 Opportunity Attackot hajthat végre a körében, kivéve, ha ezt valamilyen egyéb, szűkebb szabály felülbírálja.

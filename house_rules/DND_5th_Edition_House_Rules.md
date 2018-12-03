@@ -1,6 +1,6 @@
 <h1>Szarka szabálygyűjteménye</h1>
 
-<h2>Háziszabályok a Dungeons & Dragons 5. kiadásához</h2>
+<h2>Házi szabályok a Dungeons & Dragons 5. kiadásához</h2>
 
 ### Előmenetel
 
@@ -47,7 +47,7 @@ Bekerül a játékba az "élénk" állapot. Ebbe akkor kerül a karakter, amikor
 
 A bájitalok lehajtása mostantól 1 bónusz cselekvésbe kerül. Ha valaki másnak adod be, az 1 normál cselekvés. Függetlenül attól, kivel itatod meg a löttyöt, ha fenyegetett mezőn állsz, ez megszakító támadást provokál ki.
 
-#### Harcrendszer
+### Harcrendszer
 
 Őszintén szólva az 5. kiadás harcrendszerével semmi gond nincs, ha az ember nem akar mélyebben belegondolni. Az alábbi változtatások arra nyújtanak lehetőséget, hogy a 3.5-ös kiadás egyes elemeit átemelve valamivel taktikusabbá tegyék a harcot a játékban.
 
@@ -83,7 +83,7 @@ A játékban a továbbiakban a Dungeon Master's Guide-ban említett átlós mozg
 
 ### Szótár
 
-A háziszabályok magyar leírásához egy korábbi, D20 rendszer referencia fordítást használtam alapul. Álljon itt egy táblázat a lefordított kifejezésekről és az eredeti, angol megfelelőikről!
+A házi szabályok magyar leírásához egy korábbi, D20 rendszer referencia fordítást használtam alapul. Álljon itt egy táblázat a lefordított kifejezésekről és az eredeti, angol megfelelőikről!
 
 | Angol kifejezés | Magyar kifejezés |
 |:----------------|:-----------------|
@@ -91,11 +91,11 @@ A háziszabályok magyar leírásához egy korábbi, D20 rendszer referencia for
 | bonus action    | bónusz cselekvés |
 | disengage       | visszavonulás    |
 | downtime        | üresjárati idő   |
+| exhaustion      | kimerült állapot |
 | experience point (XP) | tapasztalati pont (TP) |
 | healing surge   | felfakadó gyógyulás |
 | hit die         | életerő kocka    |
 | hit point       | életerő pont     |
-| exhaustion      | kimerült állapot |
 | long rest       | hosszú pihenő    |
 | opportunity attack | megszakító támadás |
 | potion          | bájital          |

@@ -53,7 +53,7 @@ A bájitalok lehajtása mostantól 1 bónusz cselekvésbe kerül. Ha valaki más
 
 #### Célzott támadás
 
-Ha egy karakter a támadás cselekvés végrehajtása során ellenfelének egy konkrét részére kíván támadni, akkor a játékos azt a támadás végrehajtása előtt jelentse be! Ezután, ahogy rendesen is, támadó dobást tesz. Ha a támadó dobás értéke 4-gyel haladja meg a célpont védelmi értékét, akkor sikerül az adott részt eltalálni. Ha a dobás értéke csak eléri, de 5-tel nem haladja meg az ellenfél VÉ-jét, a támadás sikeres, de nem feltétlenül a megcélzott részen talál. Ha a találat páncéllal nem fedett tetrészt ér, ott a viselt vért VÉ-je természetesen nem érvényesül.
+Ha egy karakter a támadás cselekvés végrehajtása során ellenfelének egy konkrét részére kíván támadni, akkor a játékos azt a támadás végrehajtása előtt jelentse be! Ezután, ahogy rendesen is, támadó dobást tesz. Ha a támadó dobás értéke 4-gyel haladja meg a célpont védelmi értékét, akkor sikerül az adott részt eltalálni. Ha a dobás értéke csak eléri, de 5-tel nem haladja meg az ellenfél VÉ-jét, a támadás sikeres, de nem feltétlenül a megcélzott részen talál. Ha a támadás páncéllal nem fedett testrészre irányul, ott a viselt vért VÉ-je természetesen nem érvényesül.
 
 #### Megszakító támadás
 
